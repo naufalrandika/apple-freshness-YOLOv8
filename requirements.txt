@@ -1,0 +1,10 @@
+glob2
+shutil
+opencv-python
+numpy
+Pillow
+matplotlib
+pandas
+seaborn
+ultralytics
+IPython
